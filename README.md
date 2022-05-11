@@ -17,7 +17,7 @@ A Xray backend framework that can easily support many panels.
 
 本项目只是本人个人学习开发并维护，本人不保证任何可用性，也不对使用本软件造成的任何后果负责。
 
-## 特点1
+## 特点11
 
 * 永久开源且免费。
 * 支持V2ray，Trojan， Shadowsocks多种协议。
